@@ -27,7 +27,7 @@ Same criteria as above for what is considered a "data-driven" story.
 **Pros:**
 
 * Will allow us to focus more time on reporting and data work, giving you a deeper level of experience in these areas
-* Will allow you to finish the story indepently or as part of your capstone class next quarter
+* Will allow you to finish the story indepently or as part of your enterprise class next quarter
 
 **Cons:**
 
