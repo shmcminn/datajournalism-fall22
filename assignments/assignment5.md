@@ -1,11 +1,9 @@
-# Assignment 5: Interview a dataset
+# Assignment 5: Design a visualization
 
-Individually (not as a group), "interview" a dataset with three specific, interesting questions.
+Using the same data from [assignment4](assignment4.md), create a data visualization using DataWrapper. As in assignment5, it should be an appropriate visualization type for the data. It should also have all necessary components (hed, chatter, source, etc.)
 
-Turn in:
+Export an image of the visualization and upload it to github, titled `assignment5.md`. 
 
-1. A link to the dataset (which you can include in your repository), your questions, as well as the answers to those questions.  
-2. Write down all steps used to clean and analyze the data, including any Excel formulas. 
-3. Write a sample headline and nut graf based on the most interesting of the three questions.
 
-This analysis can be related to your final project, but does not have to be.
+
+
