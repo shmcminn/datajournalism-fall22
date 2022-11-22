@@ -1,4 +1,4 @@
-# Medill Data Journalism Fall 2021
+# Medill Data Journalism Fall 2022
 
 **Instructor**: Sean McMinn
 
